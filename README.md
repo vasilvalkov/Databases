@@ -10,7 +10,7 @@ Homework, exam practice tasks and exam
 1. Database-Systems-Overview
 1. SQL-Server-Introduction
 1. Database-Modeling
-1. [Intro-to-SQL](./07. Intro-to-SQL)
+1. [Intro-to-SQL](./07-Intro-to-SQL)
 1. Advanced-SQL
 1. Transact-SQL
 1. Entity-Framework
