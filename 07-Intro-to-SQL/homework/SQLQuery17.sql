@@ -1,3 +1,4 @@
+-- find all employees along with their manager
 USE TelerikAcademy
 SELECT e.FirstName + ' ' + e.LastName AS [Employee],
 	m.FirstName + ' ' + m.LastName AS [Manager]

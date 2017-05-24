@@ -1,3 +1,4 @@
+-- find the names of all employees from the departments "Sales" and "Finance" whose hire year is between 1995 and 2005
 USE TelerikAcademy
 SELECT
 	e.FirstName + ' ' + e.LastName AS [Employee Name]
