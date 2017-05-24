@@ -4,7 +4,7 @@
 -	What is SQL? What is DML? What is DDL? Recite the most important SQL commands.
 -	What is Transact-SQL (T-SQL)?
 -	Start SQL Management Studio and connect to the database TelerikAcademy. Examine the major tables in the "TelerikAcademy" database.
-1.	Write a SQL query to find all information about all departments (use "TelerikAcademy" database).
+1.	[Write a SQL query to find all information about all departments (use "TelerikAcademy" database)](./homework/SQLQuery1.sql).
 1.	Write a SQL query to find all department names.
 1.	Write a SQL query to find the salary of each employee.
 1.	Write a SQL to find the full name of each employee.
