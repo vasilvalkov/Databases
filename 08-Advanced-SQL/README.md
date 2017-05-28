@@ -32,8 +32,8 @@
 	*	Write a SQL statement to add a foreign key constraint between tables `Users` and `Groups` tables.
 1.	[Write SQL statements to insert several records in the `Users` and `Groups` tables.](./homework/SQLQuery19.sql)
 1.	[Write SQL statements to update some of the records in the `Users` and `Groups` tables.](./homework/SQLQuery20.sql)
-1.	[Write SQL statements to delete some of the records from the `Users` and `Groups` tables.]
-1.	[Write SQL statements to insert in the `Users` table the names of all employees from the `Employees` table.]
+1.	[Write SQL statements to delete some of the records from the `Users` and `Groups` tables.](./homework/SQLQuery21.sql)
+1.	[Write SQL statements to insert in the `Users` table the names of all employees from the `Employees` table.](./homework/SQLQuery22.sql)
 	*	Combine the first and last names as a full name.
 	*	For username use the first letter of the first name + the last name (in lowercase).
 	*	Use the same for the password, and `NULL` for last login time.
