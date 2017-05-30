@@ -1,0 +1,7 @@
+-- 01. Create cities table
+USE NORTHWND
+CREATE TABLE Cities
+(
+	CityID INT IDENTITY PRIMARY KEY,
+	Name NVARCHAR(15)
+)
