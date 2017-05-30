@@ -37,20 +37,9 @@
 	*	Combine the first and last names as a full name.
 	*	For username use the first letter of the first name + the last name (in lowercase).
 	*	Use the same for the password, and `NULL` for last login time.
-1.	[Write a SQL statement that changes the password to `NULL` for all users that have not been in the system since 10.03.2010.]
-1.	[Write a SQL statement that deletes all users without passwords (`NULL` password).]
-1.	[Write a SQL query to display the average employee salary by department and job title.]
-1.	[Write a SQL query to display the minimal employee salary by department and job title along with the name of some of the employees that take it.]
-1.	[Write a SQL query to display the town where maximal number of employees work.]
-1.	[Write a SQL query to display the number of managers from each town.]
-1.	[Write a SQL to create table `WorkHours` to store work reports for each employee (employee id, date, task, hours, comments).]
-	*	Don't forget to define  identity, primary key and appropriate foreign key. 
-	*	Issue few SQL statements to insert, update and delete of some data in the table.
-	*	Define a table `WorkHoursLogs` to track all changes in the `WorkHours` table with triggers.
-		*	For each change keep the old record data, the new record data and the command (insert / update / delete).
-1.	[Start a database transaction, delete all employees from the '`Sales`' department along with all dependent records from the pother tables.]
-	*	At the end rollback the transaction.
-1.	[Start a database transaction and drop the table `EmployeesProjects`.]
-	*	Now how you could restore back the lost table data?
-1.	[Find how to use temporary tables in SQL Server.]
-	*	Using temporary tables backup all records from `EmployeesProjects` and restore them back after dropping and re-creating the table.
+1.	[Write a SQL statement that changes the password to `NULL` for all users that have not been in the system since 10.03.2010.](./homework/SQLQuery23.sql)
+1.	[Write a SQL statement that deletes all users without passwords (`NULL` password).](./homework/SQLQuery24.sql)
+1.	[Write a SQL query to display the average employee salary by department and job title.](./homework/SQLQuery25.sql)
+1.	[Write a SQL query to display the minimal employee salary by department and job title along with the name of some of the employees that take it.](./homework/SQLQuery26.sql)
+1.	[Write a SQL query to display the town where maximal number of employees work.](./homework/SQLQuery27.sql)
+1.	[Write a SQL query to display the number of managers from each town.](./homework/SQLQuery28.sql)
