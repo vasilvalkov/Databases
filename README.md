@@ -19,3 +19,4 @@ Homework, exam practice tasks and exam
 1. Database-Transactions-with-EF
 1. NoSQL-Databases
 1. [Workshop](Workshop)
+1. [Exam](Exam)
